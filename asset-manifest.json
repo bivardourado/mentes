@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bivardourado/mente.git/static/css/main.ab825be7.css",
+    "main.js": "/bivardourado/mente.git/static/js/main.c0e117d5.js",
+    "static/js/453.ea3bdddf.chunk.js": "/bivardourado/mente.git/static/js/453.ea3bdddf.chunk.js",
+    "static/media/back.png": "/bivardourado/mente.git/static/media/back.28b1489a44025911e997.png",
+    "index.html": "/bivardourado/mente.git/index.html",
+    "main.ab825be7.css.map": "/bivardourado/mente.git/static/css/main.ab825be7.css.map",
+    "main.c0e117d5.js.map": "/bivardourado/mente.git/static/js/main.c0e117d5.js.map",
+    "453.ea3bdddf.chunk.js.map": "/bivardourado/mente.git/static/js/453.ea3bdddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab825be7.css",
+    "static/js/main.c0e117d5.js"
+  ]
+}
