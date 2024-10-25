@@ -1,0 +1,9 @@
+# Exemplo de conteúdo combinado
+
+# Conteúdo da branch gh-pages
+node_modules/
+build/
+
+# Conteúdo da branch master
+.env
+.DS_Store
